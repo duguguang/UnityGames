@@ -1,0 +1,29 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon (TM) R7 360 Series (ID=0x665f)
+    Vendor:   ATI
+    VRAM:     2025 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\重要资料\游戏开发\Fighting game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\重要资料\游戏开发\Fighting game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\重要资料\游戏开发\Fighting game_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\重要资料\游戏开发\Fighting game_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\重要资料\游戏开发\Fighting game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\重要资料\游戏开发\Fighting game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\重要资料\游戏开发\Fighting game_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\重要资料\游戏开发\Fighting game_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: D:\重要资料\游戏开发\Fighting game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\重要资料\游戏开发\Fighting game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\重要资料\游戏开发\Fighting game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\重要资料\游戏开发\Fighting game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\重要资料\游戏开发\Fighting game_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\重要资料\游戏开发\Fighting game_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.068 seconds
+Platform assembly: D:\重要资料\游戏开发\Fighting game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\重要资料\游戏开发\Fighting game_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
